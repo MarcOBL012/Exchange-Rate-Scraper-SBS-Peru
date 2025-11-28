@@ -26,7 +26,7 @@ You need to have **Google Chrome** installed on your system, as the script uses 
 
 1. Clone this repository:
 ```bash
-git clone [https://github.com/your-username/your-repo.git](https://github.com/your-username/your-repo.git)
+git clone https://github.com/MarcOBL012/Exchange-Rate-Scraper-SBS-Peru.git
 ```
 
 
